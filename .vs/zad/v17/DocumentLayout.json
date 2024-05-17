@@ -1,0 +1,512 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Desktop\\zad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|e:\\desktop\\zad\\zad\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_zad_20240517111138/True/SqlTable/dbo.Doctors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_zad_20240517111138/True/SqlTable/dbo.Patients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_zad_20240517111138/True/SqlTable/dbo.Hospitals.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Views\\Doctors\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Views\\Doctors\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Views\\Doctors\\InsertNewPatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Views\\Doctors\\InsertNewPatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Views\\Doctors\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Views\\Doctors\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Models\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Models\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Views\\Doctors\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Views\\Doctors\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Models\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Models\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Views\\Doctors\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Views\\Doctors\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Migrations\\202405171035492_asd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Migrations\\202405171035492_asd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Models\\DoctorPatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Models\\DoctorPatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Migrations\\202405171030375_patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Migrations\\202405171030375_patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Migrations\\202405171023563_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Migrations\\202405171023563_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Views\\Doctors\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Views\\Doctors\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Models\\AccountViewModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Models\\AccountViewModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Models\\Hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Models\\Hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Migrations\\202405171018330_ma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Migrations\\202405171018330_ma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Migrations\\202405170950401_dva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Migrations\\202405170950401_dva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Views\\Patients\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Views\\Patients\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Controllers\\PatientsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Controllers\\PatientsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Controllers\\HospitalsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Controllers\\HospitalsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Views\\Hospitals\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Views\\Hospitals\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Views\\Patients\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Views\\Patients\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Migrations\\202405170915045_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Migrations\\202405170915045_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Migrations\\Configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Migrations\\Configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Models\\IdentityModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Models\\IdentityModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|E:\\Desktop\\zad\\zad\\Models\\ManageViewModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AB8969-BFA7-460F-82EC-8EB0092113E4}|zad\\zad.csproj|solutionrelative:zad\\Models\\ManageViewModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1407,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "zad\\Controllers\\DoctorsController.cs",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "zad\\Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAwwHQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:16:33.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Views\\Doctors\\Create.cshtml",
+              "RelativeDocumentMoniker": "zad\\Views\\Doctors\\Create.cshtml",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Views\\Doctors\\Create.cshtml",
+              "RelativeToolTip": "zad\\Views\\Doctors\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T09:38:31.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InsertNewPatient.cshtml",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Views\\Doctors\\InsertNewPatient.cshtml",
+              "RelativeDocumentMoniker": "zad\\Views\\Doctors\\InsertNewPatient.cshtml",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Views\\Doctors\\InsertNewPatient.cshtml",
+              "RelativeToolTip": "zad\\Views\\Doctors\\InsertNewPatient.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T10:46:44.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "zad\\Views\\Doctors\\Index.cshtml",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "zad\\Views\\Doctors\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T10:01:40.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "zad\\Models\\Patient.cs",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Models\\Patient.cs",
+              "RelativeToolTip": "zad\\Models\\Patient.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:12:36.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Views\\Doctors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "zad\\Views\\Doctors\\Delete.cshtml",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Views\\Doctors\\Delete.cshtml",
+              "RelativeToolTip": "zad\\Views\\Doctors\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T10:05:42.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "zad\\Models\\Doctor.cs",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Models\\Doctor.cs",
+              "RelativeToolTip": "zad\\Models\\Doctor.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:12:19.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Views\\Doctors\\Details.cshtml",
+              "RelativeDocumentMoniker": "zad\\Views\\Doctors\\Details.cshtml",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Views\\Doctors\\Details.cshtml",
+              "RelativeToolTip": "zad\\Views\\Doctors\\Details.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAEBVwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T10:20:27.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "202405171035492_asd.cs",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Migrations\\202405171035492_asd.cs",
+              "RelativeDocumentMoniker": "zad\\Migrations\\202405171035492_asd.cs",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Migrations\\202405171035492_asd.cs",
+              "RelativeToolTip": "zad\\Migrations\\202405171035492_asd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:35:54.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorPatient.cs",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Models\\DoctorPatient.cs",
+              "RelativeDocumentMoniker": "zad\\Models\\DoctorPatient.cs",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Models\\DoctorPatient.cs",
+              "RelativeToolTip": "zad\\Models\\DoctorPatient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:33:36.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "202405171030375_patients.cs",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Migrations\\202405171030375_patients.cs",
+              "RelativeDocumentMoniker": "zad\\Migrations\\202405171030375_patients.cs",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Migrations\\202405171030375_patients.cs",
+              "RelativeToolTip": "zad\\Migrations\\202405171030375_patients.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:30:43.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "202405171023563_final.cs",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Migrations\\202405171023563_final.cs",
+              "RelativeDocumentMoniker": "zad\\Migrations\\202405171023563_final.cs",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Migrations\\202405171023563_final.cs",
+              "RelativeToolTip": "zad\\Migrations\\202405171023563_final.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:24:02.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Views\\Doctors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "zad\\Views\\Doctors\\Edit.cshtml",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Views\\Doctors\\Edit.cshtml",
+              "RelativeToolTip": "zad\\Views\\Doctors\\Edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T10:05:35.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "zad\\Models\\AccountViewModels.cs",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "zad\\Models\\AccountViewModels.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:52:20.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Models\\Hospital.cs",
+              "RelativeDocumentMoniker": "zad\\Models\\Hospital.cs",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Models\\Hospital.cs",
+              "RelativeToolTip": "zad\\Models\\Hospital.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:12:06.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "202405171018330_ma.cs",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Migrations\\202405171018330_ma.cs",
+              "RelativeDocumentMoniker": "zad\\Migrations\\202405171018330_ma.cs",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Migrations\\202405171018330_ma.cs",
+              "RelativeToolTip": "zad\\Migrations\\202405171018330_ma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:18:38.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "202405170950401_dva.cs",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Migrations\\202405170950401_dva.cs",
+              "RelativeDocumentMoniker": "zad\\Migrations\\202405170950401_dva.cs",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Migrations\\202405170950401_dva.cs",
+              "RelativeToolTip": "zad\\Migrations\\202405170950401_dva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:50:45.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "zad\\Views\\Patients\\Index.cshtml",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "zad\\Views\\Patients\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAIBJwCcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T09:31:51.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "zad\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "zad\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T09:16:40.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "zad\\Controllers\\PatientsController.cs",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "zad\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:16:14.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HospitalsController.cs",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Controllers\\HospitalsController.cs",
+              "RelativeDocumentMoniker": "zad\\Controllers\\HospitalsController.cs",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Controllers\\HospitalsController.cs",
+              "RelativeToolTip": "zad\\Controllers\\HospitalsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:15:58.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Views\\Hospitals\\Index.cshtml",
+              "RelativeDocumentMoniker": "zad\\Views\\Hospitals\\Index.cshtml",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Views\\Hospitals\\Index.cshtml",
+              "RelativeToolTip": "zad\\Views\\Hospitals\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBZwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T09:21:13.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Views\\Patients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "zad\\Views\\Patients\\Edit.cshtml",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Views\\Patients\\Edit.cshtml",
+              "RelativeToolTip": "zad\\Views\\Patients\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAIBZwDcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T09:23:36.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "202405170915045_initial.cs",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Migrations\\202405170915045_initial.cs",
+              "RelativeDocumentMoniker": "zad\\Migrations\\202405170915045_initial.cs",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Migrations\\202405170915045_initial.cs",
+              "RelativeToolTip": "zad\\Migrations\\202405170915045_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:15:09.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "zad\\Migrations\\Configuration.cs",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "zad\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:14:31.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "zad\\Models\\IdentityModels.cs",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "zad\\Models\\IdentityModels.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:13:49.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ManageViewModels.cs",
+              "DocumentMoniker": "E:\\Desktop\\zad\\zad\\Models\\ManageViewModels.cs",
+              "RelativeDocumentMoniker": "zad\\Models\\ManageViewModels.cs",
+              "ToolTip": "E:\\Desktop\\zad\\zad\\Models\\ManageViewModels.cs",
+              "RelativeToolTip": "zad\\Models\\ManageViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:13:38.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Doctors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_zad_20240517111138/True/SqlTable/dbo.Doctors.sql",
+              "ToolTip": "dbo.Doctors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-17T09:42:32.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Hospitals [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_zad_20240517111138/True/SqlTable/dbo.Hospitals.sql",
+              "ToolTip": "dbo.Hospitals [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-17T09:42:36.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Patients [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_zad_20240517111138/True/SqlTable/dbo.Patients.sql",
+              "ToolTip": "dbo.Patients [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-17T09:42:39.913Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿@model zad.Models.DoctorPatient
+@{
+    ViewBag.Title = "InsertNewPatient";
+}
+
+<h2>Insert New Patient</h2>
+
+@using (Html.BeginForm("InsertDoctorPatient","Doctors"))
+            {
+    <div>
+        @Html.DropDownListFor(m => m.PatientId, new SelectList(Model.patients, "ID", "Name"))
+        @Html.HiddenFor(m => m.DoctorId)
+    </div>
+
+    <div>
+        <button> Add patient</button>
+    </div>
+
+            }
+
